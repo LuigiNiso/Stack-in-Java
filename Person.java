@@ -11,10 +11,10 @@ public class Person {
         this.name = name;
         this.lastName = lastName;
     }
-    public String getcode() {
+    public String getCode() {
         return code;
     }
-    public void setcode(String code) {
+    public void setCode(String code) {
         this.code = code;
     }
     public String getname() {
